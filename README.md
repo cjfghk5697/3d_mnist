@@ -45,4 +45,4 @@ Crop-disease-diagnosis
 ## 사용법
 
 - 학습시
-모든 파일을 clone후 적절한 src/train.ㅔㅛ 파일에 있는 경로를 바꾸면 된다.(데이터셋은 위에 경로에서 다운)
+모든 파일을 clone후 적절한 src/train.py 파일에 있는 경로를 바꾸면 된다.(데이터셋은 위에 경로에서 다운)
